@@ -1,0 +1,13 @@
+# Vivado / xsim 생성물 (build.sh 가 build/ 아래에 만든다)
+build/
+
+# 소스 폴더에서 직접 xvlog/xsim/vivado 를 돌렸을 때 남는 파일들
+xsim.dir/
+.Xil/
+*.log
+*.jou
+*.pb
+*.wdb
+*.vcd
+*.str
+webtalk*
